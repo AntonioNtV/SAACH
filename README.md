@@ -41,7 +41,7 @@ Quando se fala de economia de água, nos vem à cabeça campanhas que incentivam
 
 - [Link 1](https://memoria.ebc.com.br/noticias/internacional/2013/03/agricultura-e-quem-mais-gasta-agua-no-brasil-e-no-mundo)
 - [Link 2](https://www.sciencedirect.com/science/article/abs/pii/S1161030107001268)
-- [Link 2](https://www.sciencedirect.com/science/article/abs/pii/S0378377421000366)
+- [Link 3](https://www.sciencedirect.com/science/article/abs/pii/S0378377421000366)
 
 ## Observações finais
 
