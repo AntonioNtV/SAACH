@@ -15,27 +15,25 @@
 
 ## O que é o SAACH
 
-Quando se fala de economia de água, nos vem à cabeça campanhas que incentivam a economia de água doméstica: Banhos menores, desligar a torneira durante a escovação dos dentes, lavar automóveis utilizando baldes d’água e ações do gênero. Embora essas ações sejam de fato importantes, um estudo desenvolvido pela Organização das Nações Unidas (ONU) expõe que 70% da água doce utilizada no planeta é destinada para irrigação de plantações. Ou seja, sistemas de irrigação que usam água em excesso, irrigação não inteligente, não conhecimento dos cultivos, uso de água de forma irresponsável e ineficiente. Para solucionar esse problema, devemos conhecer muito bem a plantação, o cultivo e quanto de água esse cultivo necessita e um conhecimento de ponta a ponta do processo e caminho da água. Além disso, precisamos do monitoramento do fluxo de água em toda a etapa do caminho hídrico. O objetivo central deste projeto é fornecer um sistema de monitoramento de cultivos barato e acessível para produtores de pequenos e médios produtos. 
+Quando se fala de economia de água, nos vem à cabeça campanhas que incentivam a economia de água doméstica: Banhos menores, desligar a torneira durante a escovação dos dentes, lavar automóveis utilizando baldes d’água e ações do gênero. Embora essas ações sejam de fato importantes, um estudo desenvolvido pela Organização das Nações Unidas (ONU) expõe que 70% da água doce utilizada no planeta é destinada para irrigação de plantações. Ou seja, muita água é desperdiçada em sistemas de irrigações ineficientes. O objetivo do projeto é fornecer, para pequenos e médios produtores, uma forma, barata e acessivel, de controlar a irrigação de diferentes loteamentos de cultivos, além de fornecer recomendações de métodos e agendamentos de irrigação para uma determinada cultura. Além disso, o sistema sera capaz de fornecer relatórios de custo e consumo de água com irrigação dos diferentes loteamentos cadastrados. Parao fim de facilitar a comunicação com o usuário, deve ser utilizado algum sistema de mensageria como Whatsapp ou Telegram.
 
 
 ## Requisitos
 
-<p align="center">Usuário do sistema<p/>
+<p align="center">Usuário Produtor<p/>
 
-- Eu devo ser capaz de recomendar o melhor método de irrigação para um determinado tipo de cultivo para uma determinada composição do solo. Isso com o objetivo de diminuir a gasto de água para sua forma mais eficiente.
-- Eu devo ser capaz de identificar locais com anomalias no fluxo de água no barramento hídrico. Isso com o objetivo de fornecer alertas e desligar o fornecimento de água nesses locais.
-- Eu devo ser capaz de fornecer alertas de anomalias em sistemas de irrigação. Essas anomalias devem indicar rompimentos de tubulações de  irrigação em um determinado ponto geográfico do cultivo. Isso com objetivo de minimizar o desperdício de água em caso de rompimento físico dos barramentos hídricos. 
-- Eu devo ser capaz de cortar o fornecimento de água para um determinado barramento hídrico em caso de anomalias no fluxo d'água.
-- Eu devo ser capaz de definir um cronograma de irrigação para todos os pontos da plantação de acordo com as previsões climáticas. Isso com o objetivo de minimizar a utilização de água em caso de chuvas.
-- Eu devo ser capaz de iniciar e encerrar cronogramas de irrigação de uma plantação. Com o objetivo de baratear e tornar mais eficiente a operação desses cultivos.
+- Eu, como produtor, desejo cadastrar, através de um sistema de mensageria, um loteamento de cultivo no sistema, através de um sistema de mensageria.
+- Eu, como produtor, desejo visualizar, através de um sistema de mensageria, todos os meus loteamentos cadastrados no sistema.
+- Eu, como produtor, desejo editar, através de um sistema de mensageria, um loteamento previamente cadastrado.
+- Eu, como produtor, desejo remover, através de um sistema de mensageria, o cadastro de um loteamento previamente cadastrado.
+- Eu, como produtor, desejo ser capaz de controlar, através de um sistema de mensageria, o sistema de irrigação de um determinado loteamento.
+- Eu, como produtor, desejo agendar, através de um sistema de mensageria, rotinas de irrigação para um determinado loteamento cadastrado.
+- Eu, como produtor, desejo receber, através de um sistema de mensageria, notificações de ínicio e fim de rotinas de irrigação para um determinado loteamento.
+- Eu, como produtor, desejo receber, através de um sistema de mensageria, uma sugestão de agendamento de irrigação para um determinado cultivo cadastrado.
+- Eu, como produtor, desejo visualizar, através de um sistema de mensageria, um relatório de consumo de água para um determinado loteamento cadastrado para um determinado período.
+- Eu, como produtor, desejo visualizar, através de um sistema de mensageria, gasto monetário com irrigação para um determinado loteamento cadastrado para um determinado período.
+- Eu, como produtor, desejo receber, através de um sistema de mensageria, relatórios climáticos no meu aplicativo de mensageria.
 
-<p align="center">Usuário dono das plantações<p/>
-
-- Eu, como proprietário de terra, desejo receber um relatório, via SMS/whatsapp, dos índices de economia de água no meu sistema.
-- Eu, como proprietário, desejo receber alerta em casos de identificação de anomalias no fluxo de fornecimento de água.
-- Eu, como proprietário, desejo receber atualizações do status da plantação. Ou seja, início e fim de processos de irrigação
-- Eu, como proprietário, desejo receber relatório das condições climáticas que irão afetar o meu cultivo.
-- Eu, como proprietário, desejo ser capaz de controlar  todo o sistema de irrigação das minhas plantações.
 
 ## Referências utilizadas
 
