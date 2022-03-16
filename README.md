@@ -22,6 +22,7 @@ Quando se fala de economia de água, nos vem à cabeça campanhas que incentivam
 
 <p align="center">Usuário Produtor<p/>
 
+- Eu, como produtor, desejo visualizar, através de um sistema de mensageria, as ações disponibilizadas SAACH.
 - Eu, como produtor, desejo cadastrar, através de um sistema de mensageria, um loteamento de cultivo no sistema, através de um sistema de mensageria.
 - Eu, como produtor, desejo visualizar, através de um sistema de mensageria, todos os meus loteamentos cadastrados no sistema.
 - Eu, como produtor, desejo editar, através de um sistema de mensageria, um loteamento previamente cadastrado.
